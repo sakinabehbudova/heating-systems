@@ -1776,7 +1776,7 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
 
 .elementor-mark-required .elementor-field-label:after {
     content: "*";
-    color: red;
+    color: #ff842c;
     padding-left: .2em
 }
 

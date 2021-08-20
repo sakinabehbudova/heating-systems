@@ -2572,11 +2572,11 @@ body.elementor-editor-active .elementor-posts--show-thumbnail .elementor-post__t
 }
 
 .e-form__indicators__indicator--state-completed [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none) {
-    background-color: var(--e-form-steps-indicator-completed-primary-color, #39b54a)
+    background-color: #ff842c !important;
 }
 
 .e-form__indicators__indicator--state-completed .e-form__indicators__indicator__label {
-    color: var(--e-form-steps-indicator-completed-primary-color, #39b54a)
+    color: #ff842c !important;
 }
 
 .e-form__indicators__indicator--state-completed .e-form__indicators__indicator--shape-none {

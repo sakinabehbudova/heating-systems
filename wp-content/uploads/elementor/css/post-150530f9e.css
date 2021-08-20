@@ -404,13 +404,12 @@ body.rtl .elementor-15053 .elementor-element.elementor-element-30ce1da .elemento
 
 
 /* Start Custom Fonts CSS */
-
+/* 
 @font-face {
     font-family: 'Agane';
     font-style: normal;
     font-weight: normal;
     font-display: auto;
-    src: url('../../2020/04/AGANE%c3%a2%c2%95%c2%a0%c3%83%c2%87-45-LIGHT.html') format('truetype');
 }
 
 @font-face {
@@ -418,7 +417,6 @@ body.rtl .elementor-15053 .elementor-element.elementor-element-30ce1da .elemento
     font-style: normal;
     font-weight: bold;
     font-display: auto;
-    src: url('../../2020/04/AGANE%c3%a2%c2%95%c2%a0%c3%83%c2%87-65-BOLD.html') format('truetype');
 }
 
 @font-face {
@@ -426,8 +424,7 @@ body.rtl .elementor-15053 .elementor-element.elementor-element-30ce1da .elemento
     font-style: normal;
     font-weight: 100;
     font-display: auto;
-    src: url('../../2020/04/Agane%c3%a2%c2%95%c2%a0%c3%83%c2%87-45-light-2.html') format('truetype');
-}
+} */
 
 
 /* End Custom Fonts CSS */

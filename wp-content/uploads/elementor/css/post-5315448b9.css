@@ -77,12 +77,12 @@
 
 .elementor-53154 .elementor-element.elementor-element-730fa8f0 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
 .elementor-53154 .elementor-element.elementor-element-730fa8f0 .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after {
-    background-color: #EE3350;
+    background-color: #ff842c;
 }
 
 .elementor-53154 .elementor-element.elementor-element-730fa8f0 .e--pointer-framed .elementor-item:before,
 .elementor-53154 .elementor-element.elementor-element-730fa8f0 .e--pointer-framed .elementor-item:after {
-    border-color: #EE3350;
+    border-color: #ff842c;
 }
 
 .elementor-53154 .elementor-element.elementor-element-730fa8f0 .e--pointer-framed .elementor-item:before {
@@ -119,15 +119,15 @@
 .elementor-53154 .elementor-element.elementor-element-730fa8f0 .elementor-nav-menu--dropdown a:hover,
 .elementor-53154 .elementor-element.elementor-element-730fa8f0 .elementor-nav-menu--dropdown a.elementor-item-active,
 .elementor-53154 .elementor-element.elementor-element-730fa8f0 .elementor-nav-menu--dropdown a.highlighted {
-    background-color: #EE3350;
+    background-color: #ff842c;
 }
 
 .elementor-53154 .elementor-element.elementor-element-730fa8f0 .elementor-nav-menu--dropdown a.elementor-item-active {
-    background-color: #EE3350;
+    background-color: #ff842c;
 }
 
 .elementor-53154 .elementor-element.elementor-element-730fa8f0 div.elementor-menu-toggle {
-    color: #EE3350;
+    color: #ff842c;
 }
 
 .elementor-53154 .elementor-element.elementor-element-1b8c1397 .elementor-search-form {
@@ -394,7 +394,7 @@
 
 .elementor-53154 .elementor-element.elementor-element-cdb4a29 .elementor-menu-toggle {
     margin-right: auto;
-    background-color: #ee3350;
+    background-color: #ff842c;
 }
 
 .elementor-53154 .elementor-element.elementor-element-cdb4a29 .elementor-nav-menu .elementor-item {
@@ -458,12 +458,12 @@ body.rtl .elementor-53154 .elementor-element.elementor-element-cdb4a29 .elemento
 .elementor-53154 .elementor-element.elementor-element-cdb4a29 .elementor-nav-menu--dropdown a:hover,
 .elementor-53154 .elementor-element.elementor-element-cdb4a29 .elementor-nav-menu--dropdown a.elementor-item-active,
 .elementor-53154 .elementor-element.elementor-element-cdb4a29 .elementor-nav-menu--dropdown a.highlighted {
-    background-color: #ee3350;
+    background-color: #ff842c;
 }
 
 .elementor-53154 .elementor-element.elementor-element-cdb4a29 .elementor-nav-menu--dropdown a.elementor-item-active {
     color: #ffffff;
-    background-color: #ee3350;
+    background-color: #ff842c;
 }
 
 .elementor-53154 .elementor-element.elementor-element-cdb4a29 div.elementor-menu-toggle {

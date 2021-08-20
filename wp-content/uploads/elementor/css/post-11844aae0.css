@@ -1,8 +1,8 @@
 .elementor-11844 .elementor-element.elementor-element-56d2f7d6:not(.elementor-motion-effects-element-type-background),
 .elementor-11844 .elementor-element.elementor-element-56d2f7d6>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("../../2020/03/5.jpg");
+    background-image: url("../../2018/images/main.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
 
 .elementor-11844 .elementor-element.elementor-element-56d2f7d6>.elementor-background-overlay {
@@ -96,7 +96,7 @@
 
 .elementor-11844 .elementor-element.elementor-element-31d57fb6 .elementor-repeater-item-97340bd .swiper-slide-bg {
     background-color: #FFFFFF;
-    background-image: url(../../2020/03/Electric-heating-products.jpg);
+    background-image: url(https://www.thermosphere.com/wp-content/uploads/2020/03/Electric-heating-products.jpg) ;
     background-size: cover;
 }
 
@@ -201,7 +201,7 @@
 
 .elementor-11844 .elementor-element.elementor-element-5855687 .elementor-repeater-item-97340bd .swiper-slide-bg {
     background-color: #FFFFFF;
-    background-image: url(https://www.thermosphere.com/wp-content/uploads/2020/10/Anywhere-small.jpg);
+    background-image: url(../../2018/images/servis.jpg);
     background-size: cover;
 }
 
@@ -589,7 +589,7 @@
 }
 
 .elementor-11844 .elementor-element.elementor-element-200afb7 {
-    margin-top: 50px;
+    margin-top: -140px;
     margin-bottom: 0px;
     padding: 0px 0px 0px 0px;
 }
@@ -609,6 +609,7 @@
 
 .elementor-11844 .elementor-element.elementor-element-07411f6 .swiper-slide-contents {
     max-width: 100%;
+    margin-top: 244px;
 }
 
 .elementor-11844 .elementor-element.elementor-element-07411f6 .swiper-slide-inner {
@@ -650,9 +651,10 @@
 }
 
 .elementor-11844 .elementor-element.elementor-element-07411f6>.elementor-widget-container {
-    background-image: url("../../2018/products/1.jpg");
+    background-image: url("../../2018/products/3.jpg");
     background-position: bottom center;
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .elementor-11844 .elementor-element.elementor-element-e9453f6>.elementor-element-populated {
@@ -670,6 +672,7 @@
 
 .elementor-11844 .elementor-element.elementor-element-6c198e9 .swiper-slide-contents {
     max-width: 100%;
+    margin-top: 244px;
 }
 
 .elementor-11844 .elementor-element.elementor-element-6c198e9 .swiper-slide-inner {
@@ -713,7 +716,8 @@
 .elementor-11844 .elementor-element.elementor-element-6c198e9>.elementor-widget-container {
     background-image: url("../../2018/products/2.jpg");
     background-position: bottom center;
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .elementor-11844 .elementor-element.elementor-element-f1c9813>.elementor-element-populated {
@@ -722,8 +726,9 @@
 
 .elementor-11844 .elementor-element.elementor-element-713241a .elementor-repeater-item-fbd8f59 .swiper-slide-bg {
     background-color: rgba(255, 255, 255, 0);
-    background-image: url("../../2018/products/3.jpg");
-    background-size: cover;
+    background-image: url("../../2018/products/1.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .elementor-11844 .elementor-element.elementor-element-713241a .swiper-slide {
@@ -752,7 +757,7 @@
 }
 
 .elementor-11844 .elementor-element.elementor-element-713241a .swiper-slide-inner .elementor-slide-description:not(:last-child) {
-    margin-bottom: 110px;
+    margin-bottom: 32px;
 }
 
 .elementor-11844 .elementor-element.elementor-element-713241a .elementor-slide-description {
@@ -780,12 +785,13 @@
 .elementor-11844 .elementor-element.elementor-element-4bf950c .elementor-cta__content {
     min-height: 523px;
     text-align: left;
-    padding: 100px 0px 0px 48px;
+    padding: 75px 0px 0px 21px;
 }
 
 .elementor-11844 .elementor-element.elementor-element-4bf950c .elementor-cta__title {
     font-family: "Sui Generis 100";
     font-size: 24px;
+    margin-top: 43px;
 }
 
 .elementor-11844 .elementor-element.elementor-element-4bf950c .elementor-cta__description {
@@ -795,7 +801,7 @@
 }
 
 .elementor-11844 .elementor-element.elementor-element-4bf950c .elementor-cta__description:not(:last-child) {
-    margin-bottom: 180px;
+    margin-bottom: 150px;
 }
 
 .elementor-11844 .elementor-element.elementor-element-4bf950c .elementor-cta__button {
@@ -1051,8 +1057,8 @@
 }
 
 .elementor-11844 .elementor-element.elementor-element-a4fe937>.elementor-widget-container {
-    margin: 7px 0px 0px 0px;
-    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 5px 0px 0px;
 }
 
 .elementor-11844 .elementor-element.elementor-element-ca6d913>.elementor-element-populated {
@@ -1062,7 +1068,7 @@
 
 .elementor-11844 .elementor-element.elementor-element-266c720>.elementor-widget-container {
     margin: 0px 0px 0px 0px;
-    padding: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 5px;
 }
 
 .elementor-11844 .elementor-element.elementor-element-a53ef60:not(.elementor-motion-effects-element-type-background),
@@ -1419,10 +1425,11 @@ body.rtl .elementor-11844 .elementor-element.elementor-element-e100ab2.elementor
     }
     .elementor-11844 .elementor-element.elementor-element-9e89e0d:not(.elementor-motion-effects-element-type-background),
     .elementor-11844 .elementor-element.elementor-element-9e89e0d>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-        background-image: url("../../2020/03/electric-heating-mobile.jpg");
+        background-image: url("../../2018/images/main.jpg");
         background-position: 0px 0px;
         background-repeat: no-repeat;
-        background-size: cover;
+        /* background-size: contain; */
+        height:200px;
     }
     .elementor-11844 .elementor-element.elementor-element-9e89e0d {
         margin-top: 0px;
@@ -1676,12 +1683,11 @@ body.rtl .elementor-11844 .elementor-element.elementor-element-e100ab2.elementor
 
 /* Start Custom Fonts CSS */
 
-@font-face {
+/* @font-face {
     font-family: 'Agane';
     font-style: normal;
     font-weight: normal;
     font-display: auto;
-    src: url('../../2020/04/AGANE%c3%a2%c2%95%c2%a0%c3%83%c2%87-45-LIGHT.html') format('truetype');
 }
 
 @font-face {
@@ -1697,8 +1703,7 @@ body.rtl .elementor-11844 .elementor-element.elementor-element-e100ab2.elementor
     font-style: normal;
     font-weight: 100;
     font-display: auto;
-    src: url('../../2020/04/Agane%c3%a2%c2%95%c2%a0%c3%83%c2%87-45-light-2.html') format('truetype');
-}
+} */
 
 
 /* End Custom Fonts CSS */
@@ -1792,3 +1797,20 @@ body.rtl .elementor-11844 .elementor-element.elementor-element-e100ab2.elementor
 .swiper-slide-inner {
     margin-top: -70px !important;
 } */
+
+.images2 {
+    margin-top: -74px;
+}
+@media only screen and (max-width: 1279px) and (min-width: 1400px)  {
+    .images2 {
+        margin-top: -70px ;
+    }
+}
+@media only screen and (min-width: 1800px) {
+    .images2 {
+        margin-top: 5px ;
+    }
+    .elementor-11844 .elementor-element.elementor-element-200afb7 {
+        margin-top: 0px;
+    }
+}

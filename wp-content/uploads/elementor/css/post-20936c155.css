@@ -121,7 +121,7 @@
 
 .elementor-20936 .elementor-element.elementor-element-e47389f:not(.elementor-motion-effects-element-type-background),
 .elementor-20936 .elementor-element.elementor-element-e47389f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #ee3350;
+    background-color: #ff842c;
 }
 
 .elementor-20936 .elementor-element.elementor-element-e47389f {
@@ -269,15 +269,15 @@
 
 
 /* Start Custom Fonts CSS */
-
+/* 
 @font-face {
     font-family: 'Agane';
     font-style: normal;
     font-weight: normal;
     font-display: auto;
     src: url('../../2020/04/AGANE%c3%a2%c2%95%c2%a0%c3%83%c2%87-45-LIGHT.html') format('truetype');
-}
-
+} */
+/* 
 @font-face {
     font-family: 'Agane';
     font-style: normal;
@@ -292,7 +292,7 @@
     font-weight: 100;
     font-display: auto;
     src: url('../../2020/04/Agane%c3%a2%c2%95%c2%a0%c3%83%c2%87-45-light-2.html') format('truetype');
-}
+} */
 
 
 /* End Custom Fonts CSS */

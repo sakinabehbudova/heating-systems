@@ -77,12 +77,12 @@
 
 .elementor-37795 .elementor-element.elementor-element-164a55b .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
 .elementor-37795 .elementor-element.elementor-element-164a55b .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after {
-    background-color: #EE3350;
+    background-color: #ff842c;
 }
 
 .elementor-37795 .elementor-element.elementor-element-164a55b .e--pointer-framed .elementor-item:before,
 .elementor-37795 .elementor-element.elementor-element-164a55b .e--pointer-framed .elementor-item:after {
-    border-color: #EE3350;
+    border-color: #ff842c;
 }
 
 .elementor-37795 .elementor-element.elementor-element-164a55b .e--pointer-framed .elementor-item:before {
@@ -119,15 +119,15 @@
 .elementor-37795 .elementor-element.elementor-element-164a55b .elementor-nav-menu--dropdown a:hover,
 .elementor-37795 .elementor-element.elementor-element-164a55b .elementor-nav-menu--dropdown a.elementor-item-active,
 .elementor-37795 .elementor-element.elementor-element-164a55b .elementor-nav-menu--dropdown a.highlighted {
-    background-color: #EE3350;
+    background-color: #ff842c;
 }
 
 .elementor-37795 .elementor-element.elementor-element-164a55b .elementor-nav-menu--dropdown a.elementor-item-active {
-    background-color: #EE3350;
+    background-color: #ff842c;
 }
 
 .elementor-37795 .elementor-element.elementor-element-164a55b div.elementor-menu-toggle {
-    color: #EE3350;
+    color: #ff842c;
 }
 
 .elementor-37795 .elementor-element.elementor-element-4841f152 .elementor-search-form {
