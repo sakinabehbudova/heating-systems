@@ -142,6 +142,16 @@
     background-image: linear-gradient(to left, #ff842c, #ffa808);
     border: none;
 }
+.btn-gr,.e-form__buttons__wrapper__button-next{
+    font-family: "Agane";
+    color: #ffffff;
+    background-size: 200% 100% !important;
+    position: relative !important;
+    overflow: hidden !important;
+    background-image: linear-gradient(to left, #ff842c, #ffa808) !important;
+    border: none;  
+}
+
 
 .elementor-11844 .elementor-element.elementor-element-451f89b9 .elementor-repeater-item-97340bd .swiper-slide-bg {
     background-color: #FFFFFF;
@@ -741,7 +751,7 @@
 }
 
 .elementor-11844 .elementor-element.elementor-element-713241a .swiper-slide-inner {
-    padding: 0px 0px 0px 48px;
+    padding: 140px 0px 0px 48px;
     text-align: left;
     margin-top: -70px;
 }
@@ -757,7 +767,7 @@
 }
 
 .elementor-11844 .elementor-element.elementor-element-713241a .swiper-slide-inner .elementor-slide-description:not(:last-child) {
-    margin-bottom: 32px;
+    margin-bottom: 160px;
 }
 
 .elementor-11844 .elementor-element.elementor-element-713241a .elementor-slide-description {
@@ -785,7 +795,7 @@
 .elementor-11844 .elementor-element.elementor-element-4bf950c .elementor-cta__content {
     min-height: 523px;
     text-align: left;
-    padding: 75px 0px 0px 21px;
+    padding: 104px 0px 0px 21px;
 }
 
 .elementor-11844 .elementor-element.elementor-element-4bf950c .elementor-cta__title {
@@ -1751,7 +1761,9 @@ body.rtl .elementor-11844 .elementor-element.elementor-element-e100ab2.elementor
 .elementor-11844 .elementor-element.elementor-element-07411f6 .elementor-slide-button::after,
 .elementor-11844 .elementor-element.elementor-element-6c198e9 .elementor-slide-button::after,
 .elementor-11844 .elementor-element.elementor-element-713241a .elementor-slide-button::after,
-.elementor-11844 .elementor-element.elementor-element-4bf950c .elementor-cta__button::after {
+.elementor-11844 .elementor-element.elementor-element-4bf950c .elementor-cta__button::after,
+.btn-gr::after,
+.e-form__buttons__wrapper__button-next::after {
     background-image: linear-gradient(to left, #3f57ff, #0493ff);
     border-radius: 3rem;
     content: '';
@@ -1767,6 +1779,9 @@ body.rtl .elementor-11844 .elementor-element.elementor-element-e100ab2.elementor
     will-change: transform;
     z-index: -1;
 }
+.e-form__buttons__wrapper__button-next::after {
+    border-radius: 1px !important;
+}
 
 .elementor-11844 .elementor-element.elementor-element-31d57fb6 .elementor-slide-button:hover::after,
 .elementor-11844 .elementor-element.elementor-element-451f89b9 .elementor-slide-button:hover::after,
@@ -1774,7 +1789,9 @@ body.rtl .elementor-11844 .elementor-element.elementor-element-e100ab2.elementor
 .elementor-11844 .elementor-element.elementor-element-07411f6 .elementor-slide-button:hover::after,
 .elementor-11844 .elementor-element.elementor-element-6c198e9 .elementor-slide-button:hover::after,
 .elementor-11844 .elementor-element.elementor-element-713241a .elementor-slide-button:hover:after,
-.elementor-11844 .elementor-element.elementor-element-4bf950c .elementor-cta__button:hover::after {
+.elementor-11844 .elementor-element.elementor-element-4bf950c .elementor-cta__button:hover::after,
+.btn-gr:hover::after,
+.e-form__buttons__wrapper__button-next:hover::after {
     transform: translate(0, 0)
 }
 
@@ -1784,7 +1801,9 @@ body.rtl .elementor-11844 .elementor-element.elementor-element-e100ab2.elementor
 .elementor-11844 .elementor-element.elementor-element-07411f6 .elementor-slide-button:hover,
 .elementor-11844 .elementor-element.elementor-element-6c198e9 .elementor-slide-button:hover,
 .elementor-11844 .elementor-element.elementor-element-713241a .elementor-slide-button:hover,
-.elementor-11844 .elementor-element.elementor-element-4bf950c .elementor-cta__button:hover {
+.elementor-11844 .elementor-element.elementor-element-4bf950c .elementor-cta__button:hover,
+.btn-gr:hover,
+.e-form__buttons__wrapper__button-next:hover {
     /*border: 2px solid transparent;*/
     will-change: transform
 }
@@ -1801,9 +1820,20 @@ body.rtl .elementor-11844 .elementor-element.elementor-element-e100ab2.elementor
 .images2 {
     margin-top: -74px;
 }
-@media only screen and (max-width: 1279px) and (min-width: 1400px)  {
+@media only screen and (max-width: 1279px) and (min-width: 1000px)  {
+    .images2 {
+        margin-top: -118px ;
+    }
+    .elementor-11844 .elementor-element.elementor-element-e3e3871{
+        margin-top: 40px !important;
+    }
+}
+@media only screen and (max-width: 1400px) and (min-width: 1278px)  {
     .images2 {
         margin-top: -70px ;
+    }
+    .elementor-11844 .elementor-element.elementor-element-e3e3871{
+        margin-top: 50px !important;
     }
 }
 @media only screen and (min-width: 1800px) {
